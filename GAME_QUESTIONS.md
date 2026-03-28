@@ -4,7 +4,7 @@ Answer these questions to help shape the game revamp.
 
 ## Big Idea
 
-1. What is the name of your game?
+1. What is the name of your game? - 
 
 
 
@@ -13,14 +13,15 @@ Answer these questions to help shape the game revamp.
 
 
 3. What do you want players to feel when they play?
+   Excitement
 
 
 
-4. Who is the game for?
+5. Who is the game for?
+Kids
 
 
-
-5. What games do you want this to feel inspired by?
+6. What games do you want this to feel inspired by?
 
 
 
